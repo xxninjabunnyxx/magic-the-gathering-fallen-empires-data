@@ -1,0 +1,112 @@
+---
+object: card
+id: cd962ff0-4aa6-453e-931e-bd36fc034273
+oracle_id: f72511b0-9993-4998-b646-65a855cb8170
+multiverse_ids:
+- 1903
+tcgplayer_id: 3781
+cardmarket_id: 7466
+name: Vodalian War Machine
+lang: en
+released_at: '1994-11-01'
+uri: https://api.scryfall.com/cards/cd962ff0-4aa6-453e-931e-bd36fc034273
+scryfall_uri: https://scryfall.com/card/fem/32/vodalian-war-machine?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/d/cd962ff0-4aa6-453e-931e-bd36fc034273.jpg?1562933491
+  normal: https://cards.scryfall.io/normal/front/c/d/cd962ff0-4aa6-453e-931e-bd36fc034273.jpg?1562933491
+  large: https://cards.scryfall.io/large/front/c/d/cd962ff0-4aa6-453e-931e-bd36fc034273.jpg?1562933491
+  png: https://cards.scryfall.io/png/front/c/d/cd962ff0-4aa6-453e-931e-bd36fc034273.png?1562933491
+  art_crop: https://cards.scryfall.io/art_crop/front/c/d/cd962ff0-4aa6-453e-931e-bd36fc034273.jpg?1562933491
+  border_crop: https://cards.scryfall.io/border_crop/front/c/d/cd962ff0-4aa6-453e-931e-bd36fc034273.jpg?1562933491
+mana_cost: "{1}{U}{U}"
+cmc: 3.0
+type_line: Creature — Wall
+oracle_text: |-
+  Defender (This creature can't attack.)
+  Tap an untapped Merfolk you control: Vodalian War Machine can attack this turn as though it didn't have defender.
+  Tap an untapped Merfolk you control: Vodalian War Machine gets +2/+1 until end of turn.
+  When Vodalian War Machine dies, destroy all Merfolk tapped this turn to pay for its abilities.
+power: '0'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cf7390b1-341a-4ae8-a325-da0f5f322f13
+set: fem
+set_name: Fallen Empires
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/cf7390b1-341a-4ae8-a325-da0f5f322f13
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afem&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fem?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cd962ff0-4aa6-453e-931e-bd36fc034273/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af72511b0-9993-4998-b646-65a855cb8170&unique=prints
+collector_number: '32'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 5839383b-66ed-4e08-9c2b-c00e92b4c049
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 25440
+prices:
+  usd: '0.70'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.89'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1903
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vodalian+War+Machine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vodalian+War+Machine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vodalian+War+Machine
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3781?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vodalian+War+Machine&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vodalian+War+Machine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

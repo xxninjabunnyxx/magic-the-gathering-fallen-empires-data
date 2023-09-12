@@ -1,0 +1,113 @@
+---
+object: card
+id: 40451f7a-692a-422d-99d3-d93a4d9315e0
+oracle_id: 0501af1f-c67c-4cb1-aced-4be426c83316
+multiverse_ids:
+- 1848
+tcgplayer_id: 3630
+cardmarket_id: 7411
+name: Ebon Praetor
+lang: en
+released_at: '1994-11-01'
+uri: https://api.scryfall.com/cards/40451f7a-692a-422d-99d3-d93a4d9315e0
+scryfall_uri: https://scryfall.com/card/fem/37/ebon-praetor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/0/40451f7a-692a-422d-99d3-d93a4d9315e0.jpg?1692254153
+  normal: https://cards.scryfall.io/normal/front/4/0/40451f7a-692a-422d-99d3-d93a4d9315e0.jpg?1692254153
+  large: https://cards.scryfall.io/large/front/4/0/40451f7a-692a-422d-99d3-d93a4d9315e0.jpg?1692254153
+  png: https://cards.scryfall.io/png/front/4/0/40451f7a-692a-422d-99d3-d93a4d9315e0.png?1692254153
+  art_crop: https://cards.scryfall.io/art_crop/front/4/0/40451f7a-692a-422d-99d3-d93a4d9315e0.jpg?1692254153
+  border_crop: https://cards.scryfall.io/border_crop/front/4/0/40451f7a-692a-422d-99d3-d93a4d9315e0.jpg?1692254153
+mana_cost: "{4}{B}{B}"
+cmc: 6.0
+type_line: Creature — Avatar Praetor
+oracle_text: |-
+  First strike, trample
+  At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.
+  Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate only during your upkeep and only once each turn.
+power: '5'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- First strike
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cf7390b1-341a-4ae8-a325-da0f5f322f13
+set: fem
+set_name: Fallen Empires
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/cf7390b1-341a-4ae8-a325-da0f5f322f13
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afem&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fem?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/40451f7a-692a-422d-99d3-d93a4d9315e0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0501af1f-c67c-4cb1-aced-4be426c83316&unique=prints
+collector_number: '37'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Asplund-Faith
+artist_ids:
+- d2da8270-bbdb-4c49-b84d-bf5a380e8a78
+illustration_id: 3d753970-cb59-497a-9ebd-0d746ff07d8c
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20978
+penny_rank: 12596
+prices:
+  usd: '1.68'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.75'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1848
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ebon+Praetor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ebon+Praetor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ebon+Praetor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3630?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ebon+Praetor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ebon+Praetor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

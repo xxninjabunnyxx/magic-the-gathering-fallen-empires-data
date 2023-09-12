@@ -1,0 +1,16 @@
+---
+object: set
+id: cf7390b1-341a-4ae8-a325-da0f5f322f13
+code: fem
+tcgplayer_id: 41
+name: Fallen Empires
+uri: https://api.scryfall.com/sets/cf7390b1-341a-4ae8-a325-da0f5f322f13
+scryfall_uri: https://scryfall.com/sets/fem
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afem&unique=prints
+released_at: '1994-11-01'
+set_type: expansion
+card_count: 187
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/fem.svg?1694404800
